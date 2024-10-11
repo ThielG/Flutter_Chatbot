@@ -43,7 +43,7 @@ class _HomePageState extends State<HomePage> {
   sendMessage(text) async {
     var model = GenerativeModel(
         model: 'gemini-1.5-flash',
-        apiKey: 'AIzaSyAynkpwhoPUU6e2G8xCn2vQcOQS-cRxxR8');
+        apiKey: 'YourApiKey');
     var content = [Content.text(text)];
     var response = await model.generateContent(content);
     setState(() {
