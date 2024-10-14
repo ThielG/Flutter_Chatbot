@@ -14,4 +14,4 @@ Screen reference:
 * Gemini;
 * Visual Studio Code.
 
-#### Desenvolvido para a matéria de Desenvolvimento Mobile da faculdade de Análise e Desenvolvimento de Software. 
+#### Desenvolvido para a matéria de Desenvolvimento Mobile. 
